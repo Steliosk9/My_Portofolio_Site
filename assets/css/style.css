@@ -70,8 +70,9 @@ a {
 	font-size: 18pt;
 	text-transform: uppercase;
 	text-align: center;
-	font-weight: 800;
+	font-weight: 700;
 	margin-bottom: 19px;
+	margin-top: -10px;
 }
 
 .title-line{
@@ -496,7 +497,7 @@ a .head-button-2 {
 
 #about .right-about-text {
 
-	font-size: 27px;
+	font-size: 22px;
     margin-left: 25px;
 	font-family: "Roboto", sans-serif;
 }
